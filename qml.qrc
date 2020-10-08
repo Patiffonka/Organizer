@@ -1,5 +1,12 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>MyButton.qml</file>
+        <file>NewTaskWindow.qml</file>
+        <file>CalendarWindow.qml</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>button.png</file>
+        <file>closebutton.png</file>
     </qresource>
 </RCC>
